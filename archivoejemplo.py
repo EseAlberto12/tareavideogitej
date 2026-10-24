@@ -2,4 +2,4 @@
 nombre = input("Por favor, dime tu nombre: ")
 
 # Mostrar un saludo personalizado en pantalla
-print("¡Hola!”, nombre,  “Novuelvas nunca mas.")
+print("¡Hola!”, nombre,  “Bienvenido a python.")
